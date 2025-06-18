@@ -64,13 +64,6 @@ Welcome to my backend internship project repository. This repo contains a summar
 
 ---
 
-## 🧑‍💻 Author
-
-**Name**: *Your Name*  
-**Reg No**: *24MSCS29*  
-**Project**: Backend Internship  
-**Mentor**: *[Optional]*
-
 ---
 
 > ✅ More updates coming soon as I progress through the internship!
