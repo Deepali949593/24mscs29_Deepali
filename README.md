@@ -61,9 +61,3 @@ Welcome to my backend internship project repository. This repo contains a summar
 ### 🔗 Resources:
 - 📘 [Maven Guide - Baeldung](https://www.baeldung.com/maven)
 - 🎥 [Maven Crash Course - YouTube](https://www.youtube.com/watch?v=793-O43F-ng)
-
----
-
----
-
-> ✅ More updates coming soon as I progress through the internship!
