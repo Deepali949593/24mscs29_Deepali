@@ -1,50 +1,76 @@
-# Backend Internship - Day2<RegNo> Project
+# 💻 Backend Internship - Java & MongoDB
 
-This project is part of my backend internship training and focuses on learning Maven, object-oriented programming in Java, exception handling, and MongoDB integration for basic systems. The project is structured as a Maven project and contains two key modules: a **Library Management System** and a **Banking System**.
-
-## 📁 Project Title
-**Day2<RegNo>**
-
-> Replace `<RegNo>` with your registration number, e.g., `Day2_24MSCS29`.
+Welcome to my backend internship project repository. This repo contains a summary of all the tasks, installations, and learning resources covered during the initial days of backend development training.
 
 ---
 
-## 🔧 Technologies & Tools
+## 📅 Day 1: Java Basics & Problem Solving
 
-- Java 17+
-- Maven (Build Tool)
-- Apache Log4j SLF4J Binding
-- Apache Commons CLI
-- MongoDB (via MongoDB Java Driver)
-- IntelliJ IDEA / VS Code (IDE)
-- Terminal / PowerShell
+### ✅ Software Installed:
+- 🟢 MongoDB Server
+- 🧭 MongoDB Compass
+- ☕ Java JDK 17
+- 💡 IntelliJ IDEA (Community Edition)
+
+### 📝 Tasks Completed:
+1. 🔐 Created HackerRank account.
+2. 👨‍💻 Completed Java practice problems:
+   - ✅ Welcome to Java
+   - ✅ Java Stdin and Stdout I
+   - ✅ Java if-else
+   - ✅ Java Stdin and Stdout II
+   - ✅ Java Output Formatting
+
+3. 🧮 Final Programs:
+   - ➕➖ Arithmetic operations using `switch` (with user input)
+   - 🔢 Print even/odd numbers up to a user-defined limit
+
+### 📚 Study Materials:
+- 📺 [Java Basics - YouTube](https://youtu.be/eIrMbAQSU34)
+- 📖 [OOP Concepts - GeeksforGeeks](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
 
 ---
 
-## 📦 Maven Dependencies
+## 📅 Day 2: Maven, Inheritance & Exception Handling
 
-This project uses the following Maven dependencies, added in the `pom.xml` file:
+### 📦 Maven Setup:
+- Created Maven project: `Day2_<RegNo>`
+- Added dependencies:
+  - 🔧 Apache Log4j (SLF4J Binding)
+  - ⚙️ Apache Commons CLI
+  - 🍃 MongoDB Java Driver
 
-```xml
-<dependencies>
-    <!-- Logging -->
-    <dependency>
-        <groupId>org.slf4j</groupId>
-        <artifactId>slf4j-log4j12</artifactId>
-        <version>1.7.32</version>
-    </dependency>
+### 💼 Tasks Completed:
+1. **📚 Library Management System**  
+   - Designed using inheritance:
+     - `Book` → base class  
+     - `FictionBook`, `NonFictionBook` → subclasses  
+   - CLI interaction using Apache Commons CLI
 
-    <!-- Apache CLI -->
-    <dependency>
-        <groupId>commons-cli</groupId>
-        <artifactId>commons-cli</artifactId>
-        <version>1.4</version>
-    </dependency>
+2. **🏦 Banking System Simulation**  
+   - Users can:
+     - Create account
+     - Deposit / Withdraw
+     - Check balance
+   - MongoDB used for data storage
+   - Exception handling for:
+     - ❌ Invalid transactions
+     - ❌ Overdrafts
+     - ❌ Non-existent accounts
 
-    <!-- MongoDB Driver (for banking system) -->
-    <dependency>
-        <groupId>org.mongodb</groupId>
-        <artifactId>mongodb-driver-sync</artifactId>
-        <version>4.11.0</version>
-    </dependency>
-</dependencies>
+### 🔗 Resources:
+- 📘 [Maven Guide - Baeldung](https://www.baeldung.com/maven)
+- 🎥 [Maven Crash Course - YouTube](https://www.youtube.com/watch?v=793-O43F-ng)
+
+---
+
+## 🧑‍💻 Author
+
+**Name**: *Your Name*  
+**Reg No**: *24MSCS29*  
+**Project**: Backend Internship  
+**Mentor**: *[Optional]*
+
+---
+
+> ✅ More updates coming soon as I progress through the internship!
