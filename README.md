@@ -1,8 +1,7 @@
 # 💻 Backend Internship - Java & MongoDB
 
-Welcome to my backend internship project repository. This repo contains a summary of all the tasks, installations, and learning resources covered during the initial days of backend development training.
+This repository contains internship tasks focused on backend development using Java and MongoDB. It includes hands-on practice with core Java concepts, object-oriented programming, and exception handling. We also explored project management using Maven and dependency integration. Basic MongoDB operations were applied in a Java banking simulation. Each day covers both coding tasks and relevant study materials.
 
----
 
 ## 📅 Day 1: Java Basics & Problem Solving
 
